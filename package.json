@@ -5,12 +5,12 @@
 		"build": "webpack --env.prod"
 	},
 	"dependencies": {
-		"vue": "next",
-		"vue-router": "next",
-		"vuex": "next"
+		"vue": "^3.0.0-beta.2",
+		"vue-router": "^4.0.0-alpha.7",
+		"vuex": "4.0.0-alpha.1"
 	},
 	"devDependencies": {
-		"@vue/compiler-sfc": "^3.0.0-alpha.4",
+		"@vue/compiler-sfc": "^3.0.0-beta.2",
 		"css-loader": "^3.4.0",
 		"file-loader": "^5.0.2",
 		"mini-css-extract-plugin": "^0.9.0",
