@@ -15,7 +15,7 @@ This fork adds `Typescript` support and the latest versions of `Vue Router` and 
 ```sh
 npm install
 
-// or
+# or
 yarn
 ```
 ### Usage
